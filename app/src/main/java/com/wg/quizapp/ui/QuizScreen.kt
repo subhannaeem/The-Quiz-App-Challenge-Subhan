@@ -1,3 +1,6 @@
+/*
+ * Copyright (c) 2025 QuizApp
+ */
 import android.app.Activity
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
